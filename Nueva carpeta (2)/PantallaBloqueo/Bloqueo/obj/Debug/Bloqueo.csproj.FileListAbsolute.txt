@@ -1,0 +1,36 @@
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.exe.config
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.exe
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.pdb
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csprojAssemblyReference.cache
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form1.resources
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Properties.Resources.resources
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csproj.GenerateResource.cache
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csproj.CoreCompileInputs.cache
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.exe
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.pdb
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form2.resources
+C:\Users\Educación\Desktop\kompartida\proy_resid\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form4.resources
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.exe.config
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.exe
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.pdb
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csprojAssemblyReference.cache
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form1.resources
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form2.resources
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form4.resources
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Properties.Resources.resources
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csproj.GenerateResource.cache
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csproj.CoreCompileInputs.cache
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.exe
+C:\Users\PcHx\Music\Nueva carpeta\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.pdb
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.exe.config
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.exe
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\bin\Debug\Bloqueo.pdb
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csprojAssemblyReference.cache
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form1.resources
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form2.resources
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Form4.resources
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.Properties.Resources.resources
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csproj.GenerateResource.cache
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.csproj.CoreCompileInputs.cache
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.exe
+C:\Users\PcHx\Music\Nueva carpeta (2)\PantallaBloqueo\Bloqueo\obj\Debug\Bloqueo.pdb

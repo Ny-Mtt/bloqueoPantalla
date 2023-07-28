@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloqueo", "Bloqueo\Bloqueo.csproj", "{1A27157B-AB0A-40FA-AC8D-55842A1F2839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A27157B-AB0A-40FA-AC8D-55842A1F2839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A27157B-AB0A-40FA-AC8D-55842A1F2839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A27157B-AB0A-40FA-AC8D-55842A1F2839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A27157B-AB0A-40FA-AC8D-55842A1F2839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96662D73-DD5F-48D2-A10B-6036E9E0F2B1}
+	EndGlobalSection
+EndGlobal
